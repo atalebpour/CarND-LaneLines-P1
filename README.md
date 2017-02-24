@@ -1,21 +1,14 @@
 #**Finding Lane Lines on the Road** 
 
-##Writeup Template
+##Project Overview
 
-###You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
+###This project is focused on finding lanes within both images and videos using OpenCV. The approach is based on Canny function and Hough Transform find the edges related to the lanes and connect them to form the lanes.
 
 ---
 
-**Finding Lane Lines on the Road**
-
-The goals / steps of this project are the following:
-* Make a pipeline that finds lane lines on the road
-* Reflect on your work in a written report
-
-
-[//]: # (Image References)
-
 [image1]: ./examples/grayscale.jpg "Grayscale"
+
+[image1]: ./'test_images/solidWhiteRight_WithLines.jpg' "Lane_Detection"
 
 ---
 
