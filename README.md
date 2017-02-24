@@ -40,7 +40,7 @@ I tested few of my dashcam videos, and this approach (when designed for homogeno
 
 An optimization based system can be used to find the optimized paramters based on comparing the selected lines with the actual lanes. This cound be a challenging task, but can create more accurate outcome.
 
-Adding more edges to the region of interest can solve the curve issue and defining a piecewise linear function instead of a single line can help moving around the curvature.
+Adding more edges to the region of interest can solve the curve issue and defining a piecewise linear function instead of a single line can help moving around the curves.
 
-The image can be divided into different lighting conditinos and each section analyzed seperately.
+The image can be divided into different lighting conditinos to analyze each lighting condition seperately.
 
