@@ -8,7 +8,7 @@
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
 
-[image2]: ./'test_images/solidWhiteRight_WithLines.jpg' "Lane_Detection"
+[image2]: ./test_images/solidWhiteRight_WithLines.jpg "Lane_Detection"
 
 ![alt text][image1]
 
