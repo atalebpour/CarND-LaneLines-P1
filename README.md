@@ -10,16 +10,15 @@
 
 [image2]: ./test_images/solidWhiteRight_WithLines.jpg "Lane_Detection"
 
-![alt text][image1]
+![alt text][image1] ![alt text][image2]
 
-![alt text][image2]
 ---
 
 ### Reflection
 
 ##Pipeline:
 
-###The pipeline consists of the following path:
+###1. The pipeline consists of the following path:
 
 1) Convert image to gray scale
 2) Apply Gaussian smoothing method to smooth out the image and remove noises.
